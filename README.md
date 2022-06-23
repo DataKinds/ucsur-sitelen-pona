@@ -1,6 +1,8 @@
 Convert written toki pona into [UCSUR-encoded sitelen pona](http://www.kreativekorp.com/ucsur/charts/sitelen.html)
 ===
 
+_Font displayed below is [nasin nanpa v2.5.1](https://github.com/ETBCOR/nasin-nanpa)._
+
 ![](https://raw.githubusercontent.com/DataKinds/ucsur-sitelen-pona/main/example.png)
 
 ```
