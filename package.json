@@ -1,0 +1,22 @@
+{
+  "name": "ucsur-sitelen-pona",
+  "version": "1.0.0",
+  "description": "Convert toki pona into sitelen pona.",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "Tyler (http://datakinds.github.io)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataKinds/ucsur-sitelen-pona.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DataKinds/ucsur-sitelen-pona/issues"
+  },
+  "homepage": "https://github.com/DataKinds/ucsur-sitelen-pona#readme"
+}
